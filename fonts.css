@@ -1,0 +1,12 @@
+.smallgr {
+    font-family: "LIght Italic";
+    color: #BCBCBF;
+}
+
+@font-face {
+    font-family: "Light Italic"; 
+    src: 
+        local("/fonts/whitneylightitalic.woff") format("woff"),
+        url("/fonts/whitneylightitalic.woff") format("woff");
+         
+   }    
